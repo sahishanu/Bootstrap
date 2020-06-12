@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"coor",
+				"color\tproperty"
+			],
+			[
+				"clor",
+				"color\tproperty"
+			],
+			[
 				"Ba",
 				"BASE_DIR"
 			],
@@ -31,15 +43,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "basics/index.html",
-			"settings":
-			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -93,10 +96,17 @@
 	},
 	"expanded_folders":
 	[
-		"/root/Documents/Bootstrap"
+		"/root/Documents/Bootstrap",
+		"/root/Documents/Bootstrap/basics",
+		"/root/Documents/Bootstrap/basics/coloumn_row",
+		"/root/Documents/Bootstrap/basics/nested_coloums"
 	],
 	"file_history":
 	[
+		"/root/Documents/Bootstrap/basics/nested_coloums/index.html",
+		"/root/Documents/Bootstrap/basics/coloumn_row/index1.html",
+		"/root/Documents/Bootstrap/basics/index.html",
+		"/root/Documents/Bootstrap/basics/index1.html",
 		"/root/Documents/Django/try_django/src/try_django/views.py",
 		"/root/Documents/Django/try_django/src/try_django/settings.py",
 		"/root/Documents/Django/try_django/src/templates/hello_world.html",
@@ -143,37 +153,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "basics/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
